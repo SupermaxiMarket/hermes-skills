@@ -1,0 +1,43 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "name": "Pierre's Hermes Skills",
+  "description": "Custom Hermes skills curated by Pierre Andre Erard",
+  "groupings": [
+    {
+      "title": "Content Creation",
+      "skills": [
+        "daily-ai-brief",
+        "social-pulse",
+        "video-slideshow"
+      ]
+    },
+    {
+      "title": "Agent OS",
+      "skills": [
+        "hermes-oracle",
+        "guide-machine",
+        "omniroute-management",
+        "model-integration"
+      ]
+    },
+    {
+      "title": "DevOps",
+      "skills": [
+        "cron-jobs",
+        "local-web-deployment",
+        "credential-rotation",
+        "kanban-orchestrator",
+        "kanban-worker"
+      ]
+    },
+    {
+      "title": "Development",
+      "skills": [
+        "express-fullstack",
+        "spa-app-builder",
+        "subagent-driven-development",
+        "narrative-web-app"
+      ]
+    }
+  ]
+}
